@@ -1,13 +1,10 @@
 ---
-name: I need help getting things running
-about: Use this if you're new and need help getting started, otherwise open a regular issue below
+name: Steven
+about: Other settings
 
----
+I accidently set the router on a crash course, so I used the "hold" button to stop it, but I could not erase the command? It was just paused.  How do I erase the presious manual command?
+Smiliarly how do I stop and erase the whole proceure in case of emergancy, apart from removing the power?
+I need to set the Z axis, I have seen videos where itis a similar procedure to probing the board, but just at one point. Is there such a feature or do I do it by eye?
+I hop I did this request properly? Sorry if I did not.
 
-Hi there and thanks for using OpenCNCPilot,
 
-before you submit this issue please make sure to check the following things:
-- you're using the latest version of grbl (1.1f)
-- you have the most recent version of the [.NET Framework](https://www.microsoft.com/net/download/dotnet-framework-runtime) (minimum 4.7)
-
-If you still need help, delete this text and describe your problem and I or another member of our small community will help you.
